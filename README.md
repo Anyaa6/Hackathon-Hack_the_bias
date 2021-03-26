@@ -1,9 +1,6 @@
 Our work as a team with Grosendo and Llecoq for the Hack_the_bias Hackathon held by Codam coding college on March 5th 2021
 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!-------------- CHANGE info.csv BY YOUR CSV PATH ----------!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 TO COMPILE :
 gcc -Ignl -Ilibft gnl/*.c libft/*.c parser/* *.c hackaton.h -g3 -fsanitize=address
