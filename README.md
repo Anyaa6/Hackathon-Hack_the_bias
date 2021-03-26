@@ -2,7 +2,7 @@ Our work as a team with Grosendo and Llecoq for the Hack_the_bias Hackathon held
 
 !!!!-------------- CHANGE info.csv BY YOUR CSV PATH ----------!!!!
 
-TO COMPILE :
+TO COMPILE : \n
 gcc -Ignl -Ilibft gnl/*.c libft/*.c parser/* *.c hackaton.h -g3 -fsanitize=address
 TO EXECUTE WITH ONLY COUNTRIES :
 ./a.out info.csv C
